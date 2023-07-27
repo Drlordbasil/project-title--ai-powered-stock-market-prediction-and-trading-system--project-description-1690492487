@@ -1,0 +1,21 @@
+Based on the given Python code, the package requirements are as follows:
+
+- pandas
+- numpy
+- nltk
+- tensorflow
+- keras
+- matplotlib
+- sklearn
+
+You can use the following command to install these packages:
+
+```
+pip install pandas numpy nltk tensorflow keras matplotlib scikit-learn
+```
+
+Additionally, before running the code, you need to download the 'vader_lexicon' for nltk. You can use the following code to download it:
+
+```
+nltk.download('vader_lexicon')
+```
