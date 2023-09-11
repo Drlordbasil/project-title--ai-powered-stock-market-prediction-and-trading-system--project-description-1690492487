@@ -1,7 +1,6 @@
 # Optimization 1: Import only the necessary functions and modules
 
 from sklearn.preprocessing import MinMaxScaler
-import matplotlib.pyplot as plt
 from tensorflow.keras import layers
 from tensorflow import keras
 import tensorflow as tf
